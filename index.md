@@ -1,3 +1,2 @@
-# Welcome to Rothgov on GitHub
-## Projects
-- images
+# Rothgov - Images
+Corporate image assets for Rotherham Metropolitan Borough Council.
